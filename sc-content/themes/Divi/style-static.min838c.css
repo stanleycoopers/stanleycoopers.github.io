@@ -361,7 +361,7 @@ blockquote {
 }
 
 .container {
-	width: 80%;
+	width: 98%;
 	max-width: 1080px;
 	margin: auto
 }
@@ -6236,7 +6236,7 @@ body.et-sc-pre-3_8.admin-bar.et_fixed_nav #top-header {
 @media (max-width:767px) {
 	#et-info .et-social-icons {
 		position: absolute;
-		right: -35px;
+		right: -3px;
 		bottom: 10px;
 	}
 
